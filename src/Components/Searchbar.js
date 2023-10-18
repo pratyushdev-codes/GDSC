@@ -30,7 +30,9 @@ function Searchbar() {
             </form>
           </div>
         </div>
+
       </nav>
+     
     </div>
   );
 }

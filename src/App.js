@@ -8,11 +8,15 @@ import Events from './Components/Events';
 import Pagination from './Components/Pagination';
 import Banner from './Components/Banner';
 
+
 function App() {
   return (
     <div className="App">
+  <Navbar/>
+    <br/>
+    <br/>
     
-     <Navbar/><br/>
+     {/* <Navbar/><br/> */}
     
      <About/>
      <br/><br/>
